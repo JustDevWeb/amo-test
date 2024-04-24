@@ -1,0 +1,28 @@
+{
+  "account": {
+    "subdomain": "zm91672",
+    "id": "31716098",
+    "_links": {
+      "self": "https:\/\/zm91672.amocrm.ru"
+    }
+  },
+  "leads": {
+    "add": [
+      {
+        "id": "160581",
+        "name": "",
+        "status_id": "66251910",
+        "price": "5000",
+        "responsible_user_id": "10972418",
+        "last_modified": "1713956423",
+        "modified_user_id": "10972418",
+        "created_user_id": "10972418",
+        "date_create": "1713956423",
+        "pipeline_id": "8091974",
+        "account_id": "31716098",
+        "created_at": "1713956423",
+        "updated_at": "1713956423"
+      }
+    ]
+  }
+}
